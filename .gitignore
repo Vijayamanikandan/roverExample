@@ -1,0 +1,56 @@
+jmeter.log
+
+.DS_Store
+*.DS_Store
+*.onenote
+*.onetoc
+*.onetoc2
+
+*#
+*.iml
+*.ipr
+*.iws
+
+bin/
+
+# Build files
+*.jar
+*.war
+
+# Other files
+.DS_Store
+.classpath
+.factorypath
+.idea
+.metadata
+.project
+.recommenders
+.settings
+.springBeans
+
+# Gradle generated files
+.gradle
+build/
+out/
+target/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ Files
+.idea/gradle.xml
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/uiDesigner.xml
+
+.java-version
